@@ -140,7 +140,7 @@ public class Person {
     }
 
     public ArrayList getParents() {
-       return (ArrayList) parents;
+        return (ArrayList) parents;
     }
 
     public void addSibling(Person siblings) {
